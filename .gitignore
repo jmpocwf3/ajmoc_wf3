@@ -1,0 +1,6 @@
+# Exlusion des fichiers .log
+*.log
+# admin.log doit être inclus
+!admin.log
+# exclure un dossier complet
+test/
